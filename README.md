@@ -17,7 +17,8 @@ A real-time multiplayer role playing game (MMORPG), with basic game mechanics.
 
 
 ##### Vision Statement:
-This is a fun and innovative game that provides entertainment.
+This is a fun and innovative game that provides entertainment. You can play by your self or with a friend, for now we are trying to 
+make teh game PVE oriented. Maybe later in development, we'll think of adding PVP
 
 ##### Motivation:
 We would like to learn about game development and gain experience creating something through teamwork. 
@@ -35,8 +36,10 @@ We would like to learn about game development and gain experience creating somet
 User Requirements
 
 Functional Requirements
+-Web page
 
 Non-Functional Requirements
+-User Interface
 
 ##### Methodology:
 We plan on initially using Agile, but this is subject to change. 
