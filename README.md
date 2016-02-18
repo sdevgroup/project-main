@@ -10,7 +10,7 @@ Software Development and Tools - Spring 2016 Term Project
 - David Kleckner ([D-Kleck](https://github.com/D-Kleck))
 
 ##### Title:
-Subject to Change
+Operation RPG (Subject to Change)
 
 ##### Description:
 A real-time multiplayer role playing game (MMORPG), with basic game mechanics.
