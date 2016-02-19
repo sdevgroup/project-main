@@ -15,34 +15,40 @@ Operation RPG (Subject to Change)
 ##### Description:
 A real-time multiplayer role playing game (MMORPG), with basic game mechanics.
 
-
 ##### Vision Statement:
-This is a fun and innovative game that provides entertainment. You can play by your self or with a friend, for now we are trying to 
-make teh game PVE oriented. Maybe later in development, we'll think of adding PVP
+We seek to provide a source of entertainment that is available to both solo
+players or individuals seeking to participate in larger collaborative gaming
+environments.
 
 ##### Motivation:
-We would like to learn about game development and gain experience creating something through teamwork. 
+We would like to learn about game development and familiarize ourselves with
+creating software on a collaborative scale.
 
 ##### Risks:
-- group members may be unfamiliar with involved technologies
-- there may be difficulty in connecting multiple technologies over network connections
-- providing cross-platform or support for legacy browers may consume large amounts of time
+- Group members may be unfamiliar with the technologies that are required for
+  this project
+- It may be difficult to find a universally adaptable solution for transporting
+  data between servers and clients.
+- Providing cross-platform or legacy browsers support may consume large amounts
+  of time
 
 ##### Mitigation Strategy:
-- If group members are unfamiliar with involved technologies, they will try their best to learn more about the technology.
-- Starting early on the project and pacing the timing will mitigate the last two risks in the project.
+- Group members that are unfamiliar with involved technologies will attempt to
+  learn more about the technology
+- A modular approach to the components of this project will permit certain
+  components to be omitted during development
+- Starting early on the project, evaluation of pros/cons, and pacing the timing
+  will mitigate the last two risks in the project
 
 ##### List of Requirements:
-User Requirements
-
-Functional Requirements
--Web page
-
-Non-Functional Requirements
--User Interface
+- User Requirements
+- Functional Requirements
+ - Web page
+- Non-Functional Requirements
+ - User Interface
 
 ##### Methodology:
-We plan on initially using Agile, but this is subject to change. 
+We currently opt for using an Agile approach for developing this project.
 
 ##### Project Tracking Software:
 GitHub Issues & Milestones
