@@ -1,0 +1,8 @@
+[submodule "instance-server"]
+	path = instance-server
+	url = git@github.com:sdevgroup/instance-server.git
+	branch = master
+[submodule "game-client"]
+	path = game-client
+	url = git@github.com:sdevgroup/game-client.git
+	branch = master
