@@ -48,7 +48,11 @@ creating software on a collaborative scale.
  - User Interface
 
 ##### Methodology:
-We currently opt for using an Agile approach for developing this project.
+We will be using an Agile approach for developing this project.
 
 ##### Project Tracking Software:
 GitHub Issues & Milestones
+
+The issue tracker for the server can be found
+[here](https://github.com/sdevgroup/instance-server/issues), and the client
+[here](https://github.com/sdevgroup/game-client/issues).
