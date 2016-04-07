@@ -37,7 +37,7 @@ In order to provide a source of entertainment that is available to individuals s
 ---------------------------------------------------------
 |            |      |
 |------------|------|
-|**Use Case ID:** | UC-01 |
+|**Use Case ID:** | UC-02 |
 |**Use Case Name:**  | 
 |**Description:** | 
 | **Users:** | Anyone 
@@ -53,7 +53,7 @@ In order to provide a source of entertainment that is available to individuals s
 -----------------------------------------------------------
 |            |      |
 |------------|------|
-|Use Case ID: | UC-01 |
+|Use Case ID: | UC-03 |
 | **Use Case Name:**  | 
 | **Description:** | 
 | **Users:** | Anyone 
