@@ -49,32 +49,42 @@ Output:
 |            |      |
 |------------|------|
 |**Use Case ID:** | UC-02 |
-|**Use Case Name:**  | 
-|**Description:** | 
+| **Use Case Name:**  | Login Screen
+| **Description:** | When program starts, user is shown a login screen, and requires the user to input a username to play.
 | **Users:** | Anyone 
-| **Pre-conditions:** | 
-| **Post-conditions:** |
-| **Frequency of Use:** |
-| **Flow of Events:** | **Actor Action:**
-|                     | **System Response:** 
-|                     | **Comments:**
-| **Test Pass?:** | Pass / Fail
-| **Notes and Issues:** | 
+| **Pre-conditions:** | User's player can't move until username is given, username can't be blank.
+| **Post-conditions:** | After the user gives a proper username, login disapears.
+| **Frequency of Use:** | Whenever the game starts
+| **Flow of Events:** | **Actor Action:** 
+|                     | 1. turn on game 
+|                     | 2. attempt to login without putting in username
+|                     | 3. enter Username and click login
+| **System Response:** 
+|                     | 1. Login Screen comes up
+|                     | 2. system doesn't recognize username as valid and doesn't login
+|                     | 3. Login Screen disapears and player can move
+| **Test Pass?:** | Pass
+| **Notes and Issues:** | Possibly put a message up if user tries to enter without a username
 
 -----------------------------------------------------------
 |            |      |
 |------------|------|
 |**Use Case ID:** | UC-03 |
-| **Use Case Name:**  | 
-| **Description:** | 
+| **Use Case Name:**  | Login Screen
+| **Description:** | When program starts, user is shown a login screen, and requires the user to input a username to play.
 | **Users:** | Anyone 
-| **Pre-conditions:** | 
-| **Post-conditions:** |
-| **Frequency of Use:** |
-| **Flow of Events:** | **Actor Action:**
-|                     | **System Response:** 
-|                     | **Comments:**
-| **Test Pass?:** | Pass / Fail
-| **Notes and Issues:** | 
+| **Pre-conditions:** | User's player can't move until username is given, username can't be blank.
+| **Post-conditions:** | After the user gives a proper username, login disapears.
+| **Frequency of Use:** | Whenever the game starts
+| **Flow of Events:** | **Actor Action:** 
+|                     | 1. turn on game 
+|                     | 2. attempt to login without putting in username
+|                     | 3. enter Username and click login
+| **System Response:** 
+|                     | 1. Login Screen comes up
+|                     | 2. system doesn't recognize username as valid and doesn't login
+|                     | 3. Login Screen disapears and player can move
+| **Test Pass?:** | Pass
+| **Notes and Issues:** | Possibly put a message up if user tries to enter without a username
 
 ----------------------------------------------------------
