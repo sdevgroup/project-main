@@ -60,7 +60,7 @@ Output:
 |                     | 2. hold the 'A' key, then let go.
 |                     | 3. hold the 'D' key, then let go.
 |                     | 4. hold the 'S' key, then let go.
-| **System Response:** 
+|                     | **System Response:** 
 |                     | 1. Player moves north
 |                     | 2. Player moves west
 |                     | 3. Player moves east
