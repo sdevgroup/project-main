@@ -87,9 +87,8 @@ For intance-server, we used [mocha](https://mochajs.org/) to run our unit tests.
 |                     | 2. Player reaches end of map, and tries to continue walking.
 |                     | 3. Repeat Steps 1 and 2 for all four directions.
 |                     | **System Response:** 
-|                     | 1. 
-|                     | 2. Stops the player from running off the edges of the map.
-|                     | 3. Stops the player from running off the edges of the map for each direction.
+|                     | 1. Stops the player from running off the edges of the map.
+|                     | 2. Stops the player from running off the edges of the map for each direction.
 | **Test Pass?:** | Pass
 | **Notes and Issues:** | Currently only implemented on forestmap, this feature will be added on future maps.
 
