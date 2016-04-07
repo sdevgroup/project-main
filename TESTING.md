@@ -20,7 +20,7 @@ https://mochajs.org/
 For intance-server, we used [mocha](https://mochajs.org/) to run our unit tests. To run the tests, make sure you are in the instance-server directory, and type "mocha" into the terminal. Make sure you have mocha installed.
 
 
-Output:
+**Output:**
 
 
 ![alt text](http://i.imgur.com/rswbHXU.png)
