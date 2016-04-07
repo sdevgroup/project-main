@@ -16,6 +16,10 @@ Hunger Games: May the Odds Be Ever in Your Favor
 In order to provide a source of entertainment that is available to individuals seeking to participate in larger collaborative gaming environments, Hunger Games: May the Odds Be Ever in Your Favor is a game with a multiplayer feature. It's a free for all, last man standing, Hunger Games style elimination game where players play to survive in the Hunger Games. They can use any weapons and gadgets at their disposal and the last player alive wins. May the odds be ever in your favor!
 
 ##### Automated Tests:
+https://mochajs.org/
+For intance-server, we used [mocha](https://mochajs.org/) to run our unit tests. To run the tests, make sure you are in the instance-server directory, and type "mocha" into the terminal. Make sure you have mocha installed
+Output:
+![alt text](http://i.imgur.com/rswbHXU.png)
 
 ##### User Acceptance Tests:
 Use Case ID: | UC-01
