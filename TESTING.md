@@ -37,10 +37,13 @@ Output:
 | **Flow of Events:** | **Actor Action:** 
 |                     | 1. turn on game 
 |                     | 2. attempt to login without putting in username
-|                     | **System Response:** 
-|                     | **Comments:**
-| **Test Pass?:** | Pass / Fail
-| **Notes and Issues:** | 
+|                     | 3. enter Username and click login
+| **System Response:** 
+|                     | 1. Login Screen comes up
+|                     | 2. system doesn't recognize username as valid and doesn't login
+|                     | 3. Login Screen disapears and player can move
+| **Test Pass?:** | Pass
+| **Notes and Issues:** | Possibly put a message up if user tries to enter without a username
 
 ---------------------------------------------------------
 |            |      |
