@@ -32,13 +32,15 @@ Users: | Anyone
 **Test Pass?:** | Pass / Fail
 **Notes and Issues:** | 
 
-Use Case ID: | UC-02
------------- | -----
-**Use Case Name:** | 
-**Description:** | 
+---------------------------------------------------------
 
+---------------------------------------------------------
+|            |      |
+|------------|------|
+|Use Case ID: | UC-01 |
+**Use Case Name:**  | 
+**Description:** | 
 Users: | Anyone 
------ | -----
 **Pre-conditions:** | 
 **Post-conditions:** |
 **Frequency of Use:** |
@@ -46,16 +48,20 @@ Users: | Anyone
 **Test Pass?:** | Pass / Fail
 **Notes and Issues:** | 
 
-Use Case ID: | UC-03
------------- | -----
-**Use Case Name:** | 
-**Description:** | 
+-----------------------------------------------------------
 
+-----------------------------------------------------------
+|            |      |
+|------------|------|
+|Use Case ID: | UC-01 |
+**Use Case Name:**  | 
+**Description:** | 
 Users: | Anyone 
------ | -----
 **Pre-conditions:** | 
 **Post-conditions:** |
 **Frequency of Use:** |
 **Flow of Events:** | ***Actor Action*** | ***System Response*** | ***Comments***
 **Test Pass?:** | Pass / Fail
 **Notes and Issues:** | 
+
+----------------------------------------------------------
