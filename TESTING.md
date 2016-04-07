@@ -35,12 +35,12 @@ Output:
 | **Post-conditions:** | After the user gives a proper username, login disapears.
 | **Frequency of Use:** | Whenever the game starts
 | **Flow of Events:** | **Actor Action:** 
-|                     | 1. turn on game 
-|                     | 2. attempt to login without putting in username
-|                     | 3. enter Username and click login
+|                     | 1. Turn on game 
+|                     | 2. Attempt to login without putting in username
+|                     | 3. Enter Username and click login
 |                     | **System Response:** 
 |                     | 1. Login Screen comes up
-|                     | 2. system doesn't recognize username as valid and doesn't login
+|                     | 2. System doesn't recognize username as valid and doesn't login
 |                     | 3. Login Screen disapears and player can move
 | **Test Pass?:** | Pass
 | **Notes and Issues:** | Possibly put a message up if user tries to enter without a username
