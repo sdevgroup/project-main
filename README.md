@@ -10,15 +10,13 @@ Software Development and Tools - Spring 2016 Term Project
 - David Kleckner ([D-Kleck](https://github.com/D-Kleck))
 
 ##### Title:
-Operation RPG (Subject to Change)
+Hunger Games: May the Odds Be Ever in Your Favor
 
 ##### Description:
 A real-time multiplayer role playing game (MMORPG), with basic game mechanics.
 
 ##### Vision Statement:
-We seek to provide a source of entertainment that is available to both solo
-players or individuals seeking to participate in larger collaborative gaming
-environments.
+In order to provide a source of entertainment that is available to individuals seeking to participate in larger collaborative gaming environments, Hunger Games: May the Odds Be Ever in Your Favor is a game with a multiplayer feature. It's a free for all, last man standing, Hunger Games style elimination game where players play to survive in the Hunger Games. They can use any weapons and gadgets at their disposal and the last player alive wins. May the odds be ever in your favor!
 
 ##### Motivation:
 We would like to learn about game development and familiarize ourselves with
