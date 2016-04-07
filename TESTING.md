@@ -2,7 +2,7 @@
 Software Development and Tools - Spring 2016 Term Project
 
 ##### Who:
-
+-------------------------------------------------------------------------------------------------------
 - Christine Samson ([casamson](https://github.com/casamson))
 - Nolan Cretney ([nokynokes](https://github.com/nokynokes))
 - Evan Su ([hexacyanide](https://github.com/hexacyanide))
@@ -10,12 +10,15 @@ Software Development and Tools - Spring 2016 Term Project
 - David Kleckner ([D-Kleck](https://github.com/D-Kleck))
 
 ##### Title:
+-------------------------------------------------------------------------------------------------------
 Hunger Games: May the Odds Be Ever in Your Favor
 
 ##### Vision Statement:
+-------------------------------------------------------------------------------------------------------
 In order to provide a source of entertainment that is available to individuals seeking to participate in larger collaborative gaming environments, Hunger Games: May the Odds Be Ever in Your Favor is a game with a multiplayer feature. It's a free for all, last man standing, Hunger Games style elimination game where players play to survive in the Hunger Games. They can use any weapons and gadgets at their disposal and the last player alive wins. May the odds be ever in your favor!
 
 ##### Automated Tests:
+-------------------------------------------------------------------------------------------------------
 https://mochajs.org/
 For intance-server, we used [mocha](https://mochajs.org/) to run our unit tests. To run the tests, make sure you are in the instance-server directory, and type "mocha" into the terminal. Make sure you have mocha installed.
 
