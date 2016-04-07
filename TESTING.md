@@ -76,21 +76,22 @@ For intance-server, we used [mocha](https://mochajs.org/) to run our unit tests.
 |            |      |
 |------------|------|
 |**User Case ID:** | UC-03 |
-| **User Case Name:**  | Login Screen
-| **Description:** | When program starts, user is shown a login screen, and requires the user to input a username to play.
-| **Users:** | Anyone 
-| **Pre-conditions:** | User's player can't move until username is given, username can't be blank.
-| **Post-conditions:** | After the user gives a proper username, login disapears.
-| **Frequency of Use:** | Whenever the game starts
+| **User Case Name:**  | Invisible Bounded Walls
+| **Description:** | If a player attempts to escape the edges of the map, the map has invisible barriers to prevent them from escaping.
+| **Users:** | Players/Anyone 
+| **Pre-conditions:** | Player attempts to leave the avaliable game map.
+| **Post-conditions:** | The map prevents them from leaping off the edge.
+| **Frequency of Use:** | During game, whenever player tries to walk off edge..
 | **Flow of Events:** | **Actor Action:** 
-|                     | 1. turn on game 
-|                     | 2. attempt to login without putting in username
-|                     | 3. enter Username and click login
+|                     | 1. Player starts walking in specified direction.
+|                     | 2. Player reaches end of map, and tries to continue walking.
+|                     | 3. Repeat Steps 1 and 2 for all four directions.
 |                     | **System Response:** 
-|                     | 1. Login Screen comes up
-|                     | 2. system doesn't recognize username as valid and doesn't login
-|                     | 3. Login Screen disapears and player can move
+|                     | 1. 
+|                     | 2. Stops the player from running off the edges of the map.
+|                     | 3. Stops the player from running off the edges of the map for each direction.
 | **Test Pass?:** | Pass
-| **Notes and Issues:** | Possibly put a message up if user tries to enter without a username
+| **Notes and Issues:** | Currently only implemented on forestmap, this feature will be added on future maps.
+
 
 ----------------------------------------------------------
