@@ -38,7 +38,7 @@ Output:
 |                     | 1. turn on game 
 |                     | 2. attempt to login without putting in username
 |                     | 3. enter Username and click login
-| **System Response:** 
+|                     | **System Response:** 
 |                     | 1. Login Screen comes up
 |                     | 2. system doesn't recognize username as valid and doesn't login
 |                     | 3. Login Screen disapears and player can move
@@ -59,7 +59,7 @@ Output:
 |                     | 1. turn on game 
 |                     | 2. attempt to login without putting in username
 |                     | 3. enter Username and click login
-| **System Response:** 
+|                     | **System Response:** 
 |                     | 1. Login Screen comes up
 |                     | 2. system doesn't recognize username as valid and doesn't login
 |                     | 3. Login Screen disapears and player can move
@@ -80,7 +80,7 @@ Output:
 |                     | 1. turn on game 
 |                     | 2. attempt to login without putting in username
 |                     | 3. enter Username and click login
-| **System Response:** 
+|                     | **System Response:** 
 |                     | 1. Login Screen comes up
 |                     | 2. system doesn't recognize username as valid and doesn't login
 |                     | 3. Login Screen disapears and player can move
