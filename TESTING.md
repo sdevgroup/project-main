@@ -28,13 +28,15 @@ Output:
 |            |      |
 |------------|------|
 | **Use Case ID:** | UC-01 |
-| **Use Case Name:**  | 
-| **Description:** | 
+| **Use Case Name:**  | Login Screen
+| **Description:** | When program starts, user is shown a login screen, and requires the user to input a username to play.
 | **Users:** | Anyone 
-| **Pre-conditions:** | 
-| **Post-conditions:** |
-| **Frequency of Use:** |
-| **Flow of Events:** | **Actor Action:**
+| **Pre-conditions:** | User's player can't move until username is given, username can't be blank.
+| **Post-conditions:** | After the user gives a proper username, login disapears.
+| **Frequency of Use:** | Whenever the game starts
+| **Flow of Events:** | **Actor Action:** 
+|                     | 1. turn on game 
+|                     | 2. attempt to login without putting in username
 |                     | **System Response:** 
 |                     | **Comments:**
 | **Test Pass?:** | Pass / Fail
