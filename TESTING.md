@@ -56,15 +56,15 @@ Output:
 | **Post-conditions:** | Move the direction of the of the key used
 | **Frequency of Use:** | Whenever the game starts
 | **Flow of Events:** | **Actor Action:** 
-|                     | 1. hold the 'W' key, then let go.
-|                     | 2. hold the 'A' key, then let go.
-|                     | 3. hold the 'D' key, then let go.
-|                     | 4. hold the 'S' key, then let go.
+|                     | 1. Hold the 'W' key, then let go.
+|                     | 2. Hold the 'A' key, then let go.
+|                     | 3. Hold the 'D' key, then let go.
+|                     | 4. Hold the 'S' key, then let go.
 |                     | **System Response:** 
-|                     | 1. Player moves north
-|                     | 2. Player moves west
-|                     | 3. Player moves east
-|                     | 4. Player moves south
+|                     | 1. Player moves North.
+|                     | 2. Player moves West.
+|                     | 3. Player moves East.
+|                     | 4. Player moves South.
 | **Test Pass?:** | Pass
 | **Notes and Issues:** | Possibly alter code so that character moves depending on the direction he is facing rather than by direction
 -----------------------------------------------------------
