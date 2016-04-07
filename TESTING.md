@@ -49,23 +49,24 @@ Output:
 |            |      |
 |------------|------|
 |**Use Case ID:** | UC-02 |
-| **Use Case Name:**  | Login Screen
-| **Description:** | When program starts, user is shown a login screen, and requires the user to input a username to play.
+| **Use Case Name:**  | Character movement
+| **Description:** | After user logs in, use the arrow keys to move in all 4 directions (asdw)
 | **Users:** | Anyone 
-| **Pre-conditions:** | User's player can't move until username is given, username can't be blank.
-| **Post-conditions:** | After the user gives a proper username, login disapears.
+| **Pre-conditions:** | User has logged in
+| **Post-conditions:** | Move the direction of the of the key used
 | **Frequency of Use:** | Whenever the game starts
 | **Flow of Events:** | **Actor Action:** 
-|                     | 1. turn on game 
-|                     | 2. attempt to login without putting in username
-|                     | 3. enter Username and click login
-|                     | **System Response:** 
-|                     | 1. Login Screen comes up
-|                     | 2. system doesn't recognize username as valid and doesn't login
-|                     | 3. Login Screen disapears and player can move
+|                     | 1. hold the 'W' key, then let go.
+|                     | 2. hold the 'A' key, then let go.
+|                     | 3. hold the 'D' key, then let go.
+|                     | 4. hold the 'S' key, then let go.
+| **System Response:** 
+|                     | 1. Player moves north
+|                     | 2. Player moves west
+|                     | 3. Player moves east
+|                     | 4. Player moves south
 | **Test Pass?:** | Pass
-| **Notes and Issues:** | Possibly put a message up if user tries to enter without a username
-
+| **Notes and Issues:** | Possibly alter code so that character moves depending on the direction he is facing rather than by direction
 -----------------------------------------------------------
 |            |      |
 |------------|------|
