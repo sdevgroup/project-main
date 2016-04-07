@@ -27,8 +27,8 @@ Output:
 ---------------------------------------------------------
 |            |      |
 |------------|------|
-| **Use Case ID:** | UC-01 |
-| **Use Case Name:**  | Login Screen
+| **User Case ID:** | UC-01 |
+| **User Case Name:**  | Login Screen
 | **Description:** | When program starts, user is shown a login screen, and requires the user to input a username to play.
 | **Users:** | Anyone 
 | **Pre-conditions:** | User's player can't move until username is given, username can't be blank.
@@ -48,8 +48,8 @@ Output:
 ---------------------------------------------------------
 |            |      |
 |------------|------|
-|**Use Case ID:** | UC-02 |
-| **Use Case Name:**  | Character movement
+|**User Case ID:** | UC-02 |
+| **User Case Name:**  | Character movement
 | **Description:** | After user logs in, use the arrow keys to move in all 4 directions (asdw)
 | **Users:** | Anyone 
 | **Pre-conditions:** | User has logged in
@@ -70,8 +70,8 @@ Output:
 -----------------------------------------------------------
 |            |      |
 |------------|------|
-|**Use Case ID:** | UC-03 |
-| **Use Case Name:**  | Login Screen
+|**User Case ID:** | UC-03 |
+| **User Case Name:**  | Login Screen
 | **Description:** | When program starts, user is shown a login screen, and requires the user to input a username to play.
 | **Users:** | Anyone 
 | **Pre-conditions:** | User's player can't move until username is given, username can't be blank.
