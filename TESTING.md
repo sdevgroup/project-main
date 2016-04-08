@@ -39,6 +39,8 @@ repository, and then running Mocha from the root directory.
     $ mocha
 
 **Output:**
+
+
 ![alt text](http://i.imgur.com/rswbHXU.png)
 
 ----
