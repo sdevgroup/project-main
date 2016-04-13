@@ -16,7 +16,13 @@ Hunger Games: May the Odds Be Ever in Your Favor
 A real-time multiplayer role playing game (MMORPG), with basic game mechanics.
 
 ##### Vision Statement:
-In order to provide a source of entertainment that is available to individuals seeking to participate in larger collaborative gaming environments, Hunger Games: May the Odds Be Ever in Your Favor is a game with a multiplayer feature. It's a free for all, last man standing, Hunger Games style elimination game where players play to survive in the Hunger Games. They can use any weapons and gadgets at their disposal and the last player alive wins. May the odds be ever in your favor!
+In order to provide a source of entertainment that is available to individuals
+seeking to participate in larger collaborative gaming environments, Hunger
+Games: May the Odds Be Ever in Your Favor is a game with a multiplayer feature.
+It's a free for all, last man standing, Hunger Games style elimination game
+where players play to survive in the Hunger Games. They can use any weapons and
+gadgets at their disposal and the last player alive wins. May the odds be ever
+in your favor!
 
 ##### Motivation:
 We would like to learn about game development and familiarize ourselves with
