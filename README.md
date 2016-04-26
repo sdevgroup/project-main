@@ -13,7 +13,7 @@ Software Development and Tools - Spring 2016 Term Project
 Hunger Games: May the Odds Be Ever in Your Favor
 
 ##### Description:
-A real-time multiplayer role playing game (MMORPG), with basic game mechanics.
+A real-time multiplayer survival game, with basic game mechanics.
 
 ##### Vision Statement:
 In order to provide a source of entertainment that is available to individuals
