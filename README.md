@@ -46,13 +46,16 @@ creating software on a collaborative scale.
 
 ##### List of Requirements:
 - User Requirements
+- A decent computer and access to the Internet
 - Functional Requirements
  - Web page
 - Non-Functional Requirements
  - User Interface
+ -  The game itself, with a 3D controled character that can attack by throwing knives.
 
 ##### Methodology:
 We will be using an Agile approach for developing this project.
+As a player, I want to play so that I can play with other friends online
 
 ##### Project Tracking Software:
 GitHub Issues & Milestones
