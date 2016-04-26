@@ -60,6 +60,13 @@ As a player, I want to play so that I can play with other friends online
 ##### Project Tracking Software:
 GitHub Issues & Milestones
 
+##### Organization:
+All server related code is in the instance server repository
+All the game related code and maps are in the game-client
+##### Deployment:
+The application can be run by cloning the game-client repository and building the project using Unity. To run the server, clone the instance-server repository and run `node lib/server.js`. The server will automatically run on port 3000, which the client is preset to connect to. The client can be run as a standalone client and will function in the absence of a server.
+
+
 The issue tracker for the server can be found
 [here](https://github.com/sdevgroup/instance-server/issues), and the client
 [here](https://github.com/sdevgroup/game-client/issues).
